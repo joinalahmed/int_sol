@@ -1,8 +1,6 @@
 # Software Development Engineer -I Test Solutions
 A Simple Sklearn K-Means Clustering Project .
 
-## Note
-Watch it <a href="https://youtu.be/JNZ7oFaH1fg">here</a>.
 
 ## Requirements
 0. Python 3.x
